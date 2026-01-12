@@ -43,7 +43,7 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 - **Classes:** 39
 
 🔗 **Pretrained Model URL:**  
-*(To be added)*
+https://drive.google.com/drive/folders/1AGJj0MlimxURn2P_48mKh03mn7tyizB5?usp=drive_link
 
 > ⚠️ Place the downloaded model file as:  
 > `plant_disease_cnn_model.keras` in the project root directory.
